@@ -1,3 +1,0 @@
-/Users/rostislavmolcanov/Documents/itmo/algo/sem2/algo/test/CMakeFiles/sem2.dir
-/Users/rostislavmolcanov/Documents/itmo/algo/sem2/algo/test/CMakeFiles/edit_cache.dir
-/Users/rostislavmolcanov/Documents/itmo/algo/sem2/algo/test/CMakeFiles/rebuild_cache.dir
