@@ -1,0 +1,3 @@
+/Users/rostislavmolcanov/Documents/itmo/algo/sem2/lab8/cmake-build-debug/CMakeFiles/sem2.dir
+/Users/rostislavmolcanov/Documents/itmo/algo/sem2/lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rostislavmolcanov/Documents/itmo/algo/sem2/lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
