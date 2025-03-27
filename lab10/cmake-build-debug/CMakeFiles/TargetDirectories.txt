@@ -1,3 +1,0 @@
-/Users/rostislavmolcanov/Documents/itmo/algo/sem2/lab10/cmake-build-debug/CMakeFiles/lab.dir
-/Users/rostislavmolcanov/Documents/itmo/algo/sem2/lab10/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rostislavmolcanov/Documents/itmo/algo/sem2/lab10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
